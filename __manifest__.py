@@ -1,10 +1,10 @@
 {
     "name": "Odoo Elastic APM Integration",
     "version": "0.1.0",
-    "author": "noble.johnson@ishafoundation.org",
+    "author": "noble.johnson@nobjohns.com",
     "license": "GPL-3",
     "category": "Extra Tools",
-    "website": "www.ishafoundation.org",
+    "website": "www.nobjohns.com",
     "depends": [
         "base",
     ],
